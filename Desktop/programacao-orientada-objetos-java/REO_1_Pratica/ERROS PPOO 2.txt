@@ -1,0 +1,1 @@
+Exception in thread "main" java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 3 -> precoTotal = precoTotal + precoAcessorio[carro.acessorios.get(j-1)];
