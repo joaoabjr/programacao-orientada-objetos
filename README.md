@@ -1,2 +1,2 @@
 # Programação Orientada a Objetos 
-Disciplina de Programação Orientada a Objetos feita em Java.
+Exercícios de Programação Orientada a Objetos desenvolvidos em Java.
